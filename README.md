@@ -19,3 +19,4 @@ I built interactive visuals in Power BI and Excel, including slicers, trend line
 
 Tools: Power BI, Excel
 Skills: Data analysis, visualization, correlation analysis, dashboard design, policy recommendation
+[DATA QUESTERS.pptx](https://github.com/user-attachments/files/20185048/DATA.QUESTERS.pptx)
